@@ -2,7 +2,7 @@
 
 [EN] Programs written to be used only once and to be deleted.
 
-[PL] Programy napisane aby użyć ich tylko raz i skasować.
+[PL] Programy napisane aby użyć ich tylko raz i je skasować.
 
 
 ## nxf extract
