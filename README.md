@@ -12,8 +12,8 @@
 [PL] Program służący do wyszukiwania konkretnych wartości w plikach .nxf oraz umieszczaniu całych linii z tymi konkretnymi wartościami w pliku output.txt
 
 
-## get_data_from_files.py
+## get_data_from_file
 
-[EN] Program which scan hard-coded directory for files and prints name, absolute path, modification date and size rounded to two decimal places. Program was used only for small files <50kB so prints only size in kilobytes.
+[EN] Program which scan hard-coded directory for files and prints name, absolute path, modification date and size rounded to two decimal places. Program was used only for small files <50kB so prints only size in kilobytes. Used for generate SQL table with this data.
 
-[PL] Program służący do sprawdzania zakodowanego na stałe folderu w poszukiwaniu plików, a następnie wyrzuca na konsole nazwy, ścieżkę, datę modyfikacji oraz rozmiar zaogrąglony do dwóch miejsc po przecinku - używany był tylko dla małych plików <50kB temu też wyrzuca rozmiar w kilobajtach
+[PL] Program służący do sprawdzania zakodowanego na stałe folderu w poszukiwaniu plików, a następnie wyrzuca na konsole nazwy, ścieżkę, datę modyfikacji oraz rozmiar zaogrąglony do dwóch miejsc po przecinku - używany był tylko dla małych plików <50kB temu też wyrzuca rozmiar w kilobajtach. Użyty został do wygenerowania tabeli SQL z tymi danymi.
