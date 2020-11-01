@@ -5,8 +5,15 @@
 [PL] Programy napisane aby użyć ich tylko raz i je skasować.
 
 
-## nxf extract
+## nxf extract.py
 
 [EN] Program for finding specific values in .nxf files and put lines with this values in output.txt
 
 [PL] Program służący do wyszukiwania konkretnych wartości w plikach .nxf oraz umieszczaniu całych linii z tymi konkretnymi wartościami w pliku output.txt
+
+
+## get_data_from_files.py
+
+[EN] Program which scan hard-coded directory for files and prints name, absolute path, modification date and size rounded to two decimal places. Program was used only for small files <50kB so prints only size in kilobytes.
+
+[PL] Program służący do sprawdzania zakodowanego na stałe folderu w poszukiwaniu plików, a następnie wyrzuca na konsole nazwy, ścieżkę, datę modyfikacji oraz rozmiar zaogrąglony do dwóch miejsc po przecinku - używany był tylko dla małych plików <50kB temu też wyrzuca rozmiar w kilobajtach
