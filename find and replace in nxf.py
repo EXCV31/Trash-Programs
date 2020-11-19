@@ -4,17 +4,17 @@ import os
 
 root = Tk()
 root.withdraw()
-images_dir = filedialog.askdirectory()
+directory = filedialog.askdirectory()
 from pathlib import Path
 
 
-for allx in os.listdir(images_dir):
+for allx in os.listdir(directory):
     print(allx)
-    with open(images_dir + "\\" + allx, 'r') as file:
+    with open(directory + "\\" + allx, 'r') as file:
         filedata = file.read()
     filedata = filedata.replace('Ecn', 'ECN')
     name = Path(allx).stem
-    os.remove(images_dir + "\\" + allx)
+    os.remove(directory + "\\" + allx)
     with open(name+".nxf", 'w') as file:
         file.write(filedata)
 
