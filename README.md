@@ -26,9 +26,15 @@
 [PL] Zmiana rozszerzenia pliku z .jpg na .nxb wraz z zachowaniem oryginalnego pliku.
 
 
-## find and replace in nxf.py
+## find and replace in nxf.py 
 
 [EN] Simply find and replace specific value in each file from user choosen folder
 
 [PL] Znajduje i zamienia konkretne wartości w każdym pliku z folderu wybranego przez użytkownika
 
+
+## CRC fix.py - Useful if changes were made outside of NX Editor
+
+[EN] Fixes "Error 705 - Checksum failed." on Dynalab NX Testers. Opens user choosen folder, opens each program by os.startfile (NX Editor must be choose as default program), click save and close - works on 1920x1080 display resolution - if you want to work on other resolutions you must replace X and Y coordinates for "save" button and "X" button (right upper corner). 
+
+[PL] Naprawia błąd 705 na centralkach Dynalab NX. Program otwiera pliki nxf w folderze wybranym przez użytkownika poprzez os.startfile (NX Editor musi być wybrany jako domyślny program), klika "zapisz" oraz zamyka program. Działa na rozdzielczości 1920x1080, jeżeli chciałbyś żeby pracował na innej rozdzielczości trzeba podmienić koordynaty X oraz Y dla przycisku "zapisz' oraz "x" - tego w prawym górnym rogu.
