@@ -38,3 +38,10 @@
 [EN] Fixes "Error 705 - Checksum failed." on Dynalab NX Testers. Opens user choosen folder, opens each program by os.startfile (NX Editor must be choose as default program), click save and close - works on 1920x1080 display resolution - if you want to work on other resolutions you must replace X and Y coordinates for "save" button and "X" button (right upper corner). 
 
 [PL] Naprawia błąd 705 na centralkach Dynalab NX. Program otwiera pliki nxf w folderze wybranym przez użytkownika poprzez os.startfile (NX Editor musi być wybrany jako domyślny program), klika "zapisz" oraz zamyka program. Działa na rozdzielczości 1920x1080, jeżeli chciałbyś żeby pracował na innej rozdzielczości trzeba podmienić koordynaty X oraz Y dla przycisku "zapisz' oraz "x" - tego w prawym górnym rogu.
+
+
+## add to filename.py
+
+[EN] In choosen by user folder program adds to each file specific characters. To get program working you need only change "_MCH_MT" in code.
+
+[PL] W wybranym przez użytkownika folderze dodaje do każdego jednego pliku konkretne znaki. Do działania trzeba podmienić "_MCH_MT".
