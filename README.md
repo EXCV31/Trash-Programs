@@ -5,7 +5,7 @@
 [PL] Programy napisane aby użyć ich tylko raz i je skasować.
 
 
-## nxf extract.py
+## NX extractor.py
 
 [EN] Program for finding specific values in .nxf files and put lines with this values in output.txt
 
