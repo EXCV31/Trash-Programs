@@ -19,7 +19,7 @@
 [PL] Program służący do sprawdzania zakodowanego na stałe folderu w poszukiwaniu plików, a następnie wyrzuca na konsole nazwy, ścieżkę, datę modyfikacji oraz rozmiar zaogrąglony do dwóch miejsc po przecinku - używany był tylko dla małych plików <50kB temu też wyrzuca rozmiar w kilobajtach. Użyty został do wygenerowania tabeli SQL z tymi danymi.
 
 
-## nxb rename.py
+## NX change extension.py
 
 [EN] Change file extension from .jpg to .nxb while keeping the original file.
 
