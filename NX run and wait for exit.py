@@ -8,7 +8,7 @@ root.withdraw()
 directory = filedialog.askdirectory()
 
 for allx in os.listdir(directory):
-    subprocess.call(["C:\\Program Files (x86)\\path_to_program", directory + "/" + allx])
+    subprocess.call(["full_path_to_program", directory + "/" + allx])
 
 
 root.destroy()
