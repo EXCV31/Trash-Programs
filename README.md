@@ -33,7 +33,7 @@
 [PL] Znajduje i zamienia konkretne wartości w każdym pliku z folderu wybranego przez użytkownika
 
 
-## <NX> CRC fix.py - Useful if changes were made outside of NX Editor
+## NX CRC fix.py - Useful if changes were made outside of NX Editor
 
 [EN] Fixes "Error 705 - Checksum failed." on Dynalab NX Testers. Opens user choosen folder, opens each program by os.startfile (NX Editor must be choose as default program), click save and close - works on 1920x1080 display resolution - if you want to work on other resolutions you must replace X and Y coordinates for "save" button and "X" button (right upper corner). 
 
