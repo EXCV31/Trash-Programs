@@ -1,8 +1,8 @@
 # Trash-Programs
 
-[EN] Programs written to be used only once and to be deleted.
+[EN] Programs written to be used only once and to be deleted. Without any code refactoring etc.
 
-[PL] Programy napisane aby użyć ich tylko raz i je skasować.
+[PL] Programy napisane aby użyć ich tylko raz i je skasować. Żadnej refaktoryzacji itp.
 
 
 ## NX extractor.py
