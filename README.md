@@ -45,3 +45,18 @@
 [EN] In choosen by user folder program adds to each file specific characters. To get program working you need only change "_MCH_MT" in code.
 
 [PL] W wybranym przez użytkownika folderze dodaje do każdego jednego pliku konkretne znaki. Do działania trzeba podmienić "_MCH_MT".
+
+
+## NX run and wait for exit.py
+
+[EN] In the folder selected by the user, it runs the files one after the other with the program whose path is saved in "full_path_to_program" and waits for closing.
+
+[PL] W wybranym przez użytkownika folderze uruchamia pliki po sobie za pomocą programu do którego ścieżka jest zapisana w "full_path_to_program" i czeka na zamknięcie.
+
+
+## NX run and wait for exit + drag to right corner.py
+
+[EN] In the folder selected by the user, it runs the files one after the other with the program whose path is saved in "full_path_to_program" and waits for closing. Additionally, it drags the enabled file to the right edge of the screen.
+
+[PL] W wybranym przez użytkownika folderze uruchamia pliki po sobie za pomocą programu do którego ścieżka jest zapisana w "full_path_to_program" i czeka na zamknięcie. Dodatkowo przeciąga włączony plik do prawej krawędzi ekranu.
+
