@@ -40,7 +40,7 @@
 [PL] Naprawia błąd 705 na centralkach Dynalab NX. Program otwiera pliki nxf w folderze wybranym przez użytkownika poprzez os.startfile (NX Editor musi być wybrany jako domyślny program), klika "zapisz" oraz zamyka program. Działa na rozdzielczości 1920x1080, jeżeli chciałbyś żeby pracował na innej rozdzielczości trzeba podmienić koordynaty X oraz Y dla przycisku "zapisz' oraz "x" - tego w prawym górnym rogu.
 
 
-## add to filename.py
+## NX add to filename.py
 
 [EN] In choosen by user folder program adds to each file specific characters. To get program working you need only change "_MCH_MT" in code.
 
