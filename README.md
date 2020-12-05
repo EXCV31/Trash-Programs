@@ -26,7 +26,7 @@
 [PL] Zmiana rozszerzenia pliku z .jpg na .nxb wraz z zachowaniem oryginalnego pliku.
 
 
-## find and replace in nxf.py 
+## NX find and replace in nxf.py 
 
 [EN] Simply find and replace specific value in each file from user choosen folder
 
