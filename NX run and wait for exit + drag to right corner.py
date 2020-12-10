@@ -9,7 +9,7 @@ import time
 root = Tk()
 root.withdraw()
 directory = filedialog.askdirectory()
-number_of_files = len(directory)
+number_of_files = len(os.listdir(directory))
 counter = 0
 for allx in os.listdir(directory):
     process = subprocess.Popen(["C:\\Program Files (x86)\\Dynalab\\NX\\NXEditor.exe", directory + "/" + allx])
