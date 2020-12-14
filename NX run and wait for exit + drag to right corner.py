@@ -12,7 +12,7 @@ directory = filedialog.askdirectory()
 number_of_files = len(os.listdir(directory))
 counter = 0
 for allx in os.listdir(directory):
-    process = subprocess.Popen(["C:\\Program Files (x86)\\Dynalab\\NX\\NXEditor.exe", directory + "/" + allx])
+    process = subprocess.Popen(["C:\\Program Files (x86)\\xxxxxxxxxx", directory + "/" + allx])
     time.sleep(1.5)
     pyautogui.moveTo(360, 20)  # point to program x y - for drag purposes
     time.sleep(0.2)
