@@ -60,3 +60,7 @@
 
 [PL] W wybranym przez użytkownika folderze uruchamia pliki po sobie za pomocą programu do którego ścieżka jest zapisana w "full_path_to_program" i czeka na zamknięcie. Dodatkowo przeciąga włączony plik do prawej krawędzi ekranu.
 
+
+## NX replace in filename.py
+
+[PL] Podmienia w nazwie pliku konkretne wartości używając separatora. Działał na plikach z nazwami typu 12-12345-1234-123.ext
